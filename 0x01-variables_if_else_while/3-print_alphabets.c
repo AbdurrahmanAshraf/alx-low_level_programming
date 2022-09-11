@@ -14,12 +14,12 @@ int main(void)
  * @y: alphabet in uppercase
  */
 char x = 'a';
+char y = 'A';
 while (x <= 'z')
 {
 putchar(x);
 x++;
 }
-char y = 'A';
 while (y <= 'Z')
 {
 putchar(y);
