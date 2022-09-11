@@ -4,7 +4,7 @@
 /**
  * main - print the number is positive or negative
  *
- * @n: random number
+ * @n: random number to be printed
  *
  * The if statment checks whether the number is positive or
  * negative and execute display according to that
