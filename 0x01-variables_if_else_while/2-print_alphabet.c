@@ -18,9 +18,6 @@ while (c <= 'z')
 putchar(c);
 c++;
 }
-if (c == "z")
-{
 putchar('\n');
-}
 return (0);
 }
