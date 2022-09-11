@@ -12,10 +12,11 @@ int main(void)
   /*
    * @c: char type with value of 'a'
    */
-char c = 'a'
-while (c = 'a', c <= 'z', c++)
+char c = 'a';
+while (c <= 'z')
 {
 putchar(c);
+c++;
 }
 return (0);
 }
