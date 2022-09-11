@@ -18,7 +18,7 @@ while (c <= 'z')
 putchar(c);
 c++;
 }
-if (c == 'z')
+if (c == "z")
 {
 putchar('\n');
 }
