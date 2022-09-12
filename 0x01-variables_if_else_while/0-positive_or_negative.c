@@ -4,7 +4,6 @@
 /**
  * main - print the number is positive or negative
  *
- * @n: random number to be printed
  *
  * The if statment checks whether the number is positive or
  * negative and execute display according to that
@@ -13,6 +12,9 @@
  */
 int main(void)
 {
+  /**
+   *@n: random number to be printer
+   */
 int n;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
