@@ -20,3 +20,4 @@ _putchar(a);
 count++;
 _putchar('\n');
 }
+}
